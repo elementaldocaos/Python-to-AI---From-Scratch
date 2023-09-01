@@ -1,4 +1,4 @@
-# Python to AI from Scratch - Introducing Python and Beyond
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="50 px" height="50 px" align="left">Python to AI from Scratch - Introducing Python and Beyond
 
 ## Table of Contents
 1. [Introduction to Programming](#introduction-to-programming)
@@ -12,7 +12,7 @@
 
 ### Getting Started with Learning Python
 
-Learning Python can be approached in various ways, much like any other skill. However, some methods might be more complex than others. For instance, you could dive into extensive documentation, but that might not be effective unless you grasp the essential concepts and practice as you learn. So, let's take a different approach.
+Learning Python can be approached in various ways, much like any other skill. However, some methods might be more complex than others. For instance, you could dive into extensive [documentation](https://docs.python.org/3/tutorial/index.html), but that might not be effective unless you grasp the essential concepts and practice as you learn. So, let's take a different approach.
 
 Let's start with the basics:
 
@@ -68,7 +68,7 @@ Let's explore them!
 
 ### Começando a Aprender Python
 
-Aprender Python pode ser abordado de várias maneiras, assim como qualquer outra habilidade. No entanto, alguns métodos podem ser mais complexos do que outros. Por exemplo, você pode mergulhar na extensa documentação, mas isso pode não ser eficaz a menos que você compreenda os conceitos essenciais e pratique à medida que aprende. Então, vamos adotar uma abordagem diferente.
+Aprender Python pode ser abordado de várias maneiras, assim como qualquer outra habilidade. No entanto, alguns métodos podem ser mais complexos do que outros. Por exemplo, você pode mergulhar na extensa [documentação](https://docs.python.org/3/tutorial/index.html), mas isso pode não ser eficaz a menos que você compreenda os conceitos essenciais e pratique à medida que aprende. Então, vamos adotar uma abordagem diferente.
 
 Vamos começar com o básico:
 
