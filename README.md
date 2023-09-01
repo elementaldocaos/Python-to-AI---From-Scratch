@@ -1,4 +1,4 @@
-# Python to AI from Scratch - Introducing Python and Beyond
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="50 px" height="50 px" align="left">Python to AI from Scratch - Introducing Python and Beyond
 
 ## Table of Contents
 1. [Introduction to Programming](#introduction-to-programming)
@@ -12,7 +12,7 @@
 
 ### Getting Started with Learning Python
 
-Learning Python can be approached in various ways, much like any other skill. However, some methods might be more complex than others. For instance, you could dive into extensive documentation, but that might not be effective unless you grasp the essential concepts and practice as you learn. So, let's take a different approach.
+Learning Python can be approached in various ways, much like any other skill. However, some methods might be more complex than others. For instance, you could dive into extensive [documentation](https://docs.python.org/3/tutorial/index.html), but that might not be effective unless you grasp the essential concepts and practice as you learn. So, let's take a different approach.
 
 Let's start with the basics:
 
@@ -62,13 +62,13 @@ Let's explore them!
 
 ## Pt-Br
 
-# Python para IA do Zero - Introdução ao Python
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="50 px" height="50 px" align="left">Python para IA do Zero - Introdução ao Python
 
 ## Introdução à Programação
 
 ### Começando a Aprender Python
 
-Aprender Python pode ser abordado de várias maneiras, assim como qualquer outra habilidade. No entanto, alguns métodos podem ser mais complexos do que outros. Por exemplo, você pode mergulhar na extensa documentação, mas isso pode não ser eficaz a menos que você compreenda os conceitos essenciais e pratique à medida que aprende. Então, vamos adotar uma abordagem diferente.
+Aprender Python pode ser abordado de várias maneiras, assim como qualquer outra habilidade. No entanto, alguns métodos podem ser mais complexos do que outros. Por exemplo, você pode mergulhar na extensa [documentação](https://docs.python.org/3/tutorial/index.html), mas isso pode não ser eficaz a menos que você compreenda os conceitos essenciais e pratique à medida que aprende. Então, vamos adotar uma abordagem diferente.
 
 Vamos começar com o básico:
 
@@ -116,10 +116,6 @@ Vamos explorá-los!
 - **Módulos Padrão:** Python inclui uma variedade de módulos padrão que oferecem funcionalidades adicionais, como processamento de data/hora, manipulação de texto, criptografia e muito mais.
 - **Gerenciadores de Pacotes:** Python possui um sistema de gerenciamento de pacotes para instalar e gerenciar bibliotecas de terceiros, adicionando funcionalidades extras à sua aplicação.
 
-
-
-## Unraveling the Mysteries of Syntax
-Certainly! Let's continue the tutorial with a creative approach in English:
 
 ## Unraveling the Mysteries of Syntax
 
@@ -349,8 +345,6 @@ Coding is the bridge between imagination and reality. With functions, loops, and
 
 In our next adventure, we'll explore even more tools and techniques to enhance your coding abilities. We'll delve into the magic of data manipulation, create interactive experiences, and unlock the potential of Python's vast ecosystem. Your journey to code dreams has just begun. Dream big and code even bigger!
 
-## Diving Deeper: Modules, Classes, and More
-Absolutely, let's continue with the topic "Diving Deeper: Modules, Classes, and More":
 
 ## Diving Deeper: Modules, Classes, and More
 
