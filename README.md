@@ -483,7 +483,9 @@ Your journey continues, and the possibilities in AI are boundless. So, dream big
 As you venture into the fascinating world of artificial intelligence, Python provides you with a treasure trove of libraries and frameworks that streamline the development of AI and machine learning models. Let's explore some of the key libraries you'll want to add to your toolkit:
 
 ### 1. **TensorFlow**:
+    
     TensorFlow is an open-source machine learning framework developed by Google Brain. It's renowned for its flexibility and scalability, making it an excellent choice for both beginners and experts. TensorFlow allows you to build and train machine learning models, especially deep learning models, with ease.
+
    - **Documentation**: [TensorFlow Documentation](https://www.tensorflow.org/api_docs/python/tf)
 
 ```python
@@ -491,7 +493,9 @@ import tensorflow as tf
 ```
 
 ### 2. **Keras**:
+    
     Keras is an integral part of TensorFlow, offering a user-friendly interface for building neural networks. It's perfect for rapidly prototyping and experimenting with deep learning models.
+
    - **Documentation**: [Keras Documentation](https://keras.io/api/)
 
 ```python
@@ -499,7 +503,9 @@ import keras
 ```
 
 ### 3. **scikit-learn**:
+    
     Scikit-learn is a versatile library for classic machine learning tasks. It provides a wide range of tools for data preprocessing, model selection, and evaluation. It's an excellent choice for tasks like classification, regression, and clustering.
+
    - **Documentation**: [Scikit-learn Documentation](https://scikit-learn.org/stable/modules/classes.html)
 
 ```python
@@ -507,6 +513,7 @@ import sklearn
 ```
 
 ### 4. **PyTorch**:
+   
     PyTorch is another popular deep learning framework developed by Facebook's AI Research lab (FAIR). It's known for its dynamic computation graph, making it a favorite among researchers and for tasks like natural language processing and computer vision.
 
    - **Documentation**: [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
@@ -516,7 +523,9 @@ import torch
 ```
 
 ### 5. **Natural Language Toolkit (NLTK)**:
+    
     If you're working with text data or diving into natural language processing (NLP), NLTK is a fantastic library. It provides tools and resources for working with human language data.
+
    - **Documentation**: [NLTK Documentation](https://www.nltk.org/api/nltk.html)
 
 ```python
@@ -524,7 +533,9 @@ import nltk
 ```
 
 ### 6. **OpenCV**:
+    
     OpenCV is your go-to library for computer vision tasks. Whether you're building a facial recognition system or analyzing images and videos, OpenCV has you covered.
+
    - **Documentation**: [OpenCV Documentation](https://docs.opencv.org/master/)
 
 ```python
@@ -532,7 +543,9 @@ import cv2
 ```
 
 ### 7. **Gensim**:
+    
     Gensim is a library designed for topic modeling and document similarity analysis. It's a must-have if you're working with large text corpora or exploring content recommendation systems.
+
    - **Documentation**: [Gensim Documentation](https://radimrehurek.com/gensim/)
 
 ```python
@@ -540,7 +553,9 @@ import gensim
 ```
 
 ### 8. **Pandas**:
+    
     Pandas is a powerful library for data manipulation and analysis. It's your ally in preparing and cleaning datasets for AI projects.
+
    - **Documentation**: [Pandas Documentation](https://pandas.pydata.org/docs/)
 
 ```python
