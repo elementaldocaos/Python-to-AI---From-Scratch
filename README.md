@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="50 px" height="50 px" align="left">Python to AI from Scratch - Introducing Python and Beyond
+# Python to AI from Scratch - Introducing Python and Beyond
 
 ## Table of Contents
 1. [Introduction to Programming](#introduction-to-programming)
@@ -12,7 +12,7 @@
 
 ### Getting Started with Learning Python
 
-Learning Python can be approached in various ways, much like any other skill. However, some methods might be more complex than others. For instance, you could dive into extensive [documentation](https://docs.python.org/3/tutorial/index.html), but that might not be effective unless you grasp the essential concepts and practice as you learn. So, let's take a different approach.
+Learning Python can be approached in various ways, much like any other skill. However, some methods might be more complex than others. For instance, you could dive into extensive documentation, but that might not be effective unless you grasp the essential concepts and practice as you learn. So, let's take a different approach.
 
 Let's start with the basics:
 
@@ -62,13 +62,13 @@ Let's explore them!
 
 ## Pt-Br
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="50 px" height="50 px" align="left">Python para IA do Zero - Introdução ao Python
+# Python para IA do Zero - Introdução ao Python
 
 ## Introdução à Programação
 
 ### Começando a Aprender Python
 
-Aprender Python pode ser abordado de várias maneiras, assim como qualquer outra habilidade. No entanto, alguns métodos podem ser mais complexos do que outros. Por exemplo, você pode mergulhar na extensa [documentação](https://docs.python.org/3/tutorial/index.html), mas isso pode não ser eficaz a menos que você compreenda os conceitos essenciais e pratique à medida que aprende. Então, vamos adotar uma abordagem diferente.
+Aprender Python pode ser abordado de várias maneiras, assim como qualquer outra habilidade. No entanto, alguns métodos podem ser mais complexos do que outros. Por exemplo, você pode mergulhar na extensa documentação, mas isso pode não ser eficaz a menos que você compreenda os conceitos essenciais e pratique à medida que aprende. Então, vamos adotar uma abordagem diferente.
 
 Vamos começar com o básico:
 
@@ -116,6 +116,10 @@ Vamos explorá-los!
 - **Módulos Padrão:** Python inclui uma variedade de módulos padrão que oferecem funcionalidades adicionais, como processamento de data/hora, manipulação de texto, criptografia e muito mais.
 - **Gerenciadores de Pacotes:** Python possui um sistema de gerenciamento de pacotes para instalar e gerenciar bibliotecas de terceiros, adicionando funcionalidades extras à sua aplicação.
 
+
+
+## Unraveling the Mysteries of Syntax
+Certainly! Let's continue the tutorial with a creative approach in English:
 
 ## Unraveling the Mysteries of Syntax
 
@@ -345,6 +349,8 @@ Coding is the bridge between imagination and reality. With functions, loops, and
 
 In our next adventure, we'll explore even more tools and techniques to enhance your coding abilities. We'll delve into the magic of data manipulation, create interactive experiences, and unlock the potential of Python's vast ecosystem. Your journey to code dreams has just begun. Dream big and code even bigger!
 
+## Diving Deeper: Modules, Classes, and More
+Absolutely, let's continue with the topic "Diving Deeper: Modules, Classes, and More":
 
 ## Diving Deeper: Modules, Classes, and More
 
@@ -476,7 +482,7 @@ Your journey continues, and the possibilities in AI are boundless. So, dream big
 
 As you venture into the fascinating world of artificial intelligence, Python provides you with a treasure trove of libraries and frameworks that streamline the development of AI and machine learning models. Let's explore some of the key libraries you'll want to add to your toolkit:
 
-### 1. !(https://avatars.githubusercontent.com/u/15658638?s=280&v=4)**TensorFlow**:
+### 1. **TensorFlow**:
     TensorFlow is an open-source machine learning framework developed by Google Brain. It's renowned for its flexibility and scalability, making it an excellent choice for both beginners and experts. TensorFlow allows you to build and train machine learning models, especially deep learning models, with ease.
    - **Documentation**: [TensorFlow Documentation](https://www.tensorflow.org/api_docs/python/tf)
 
@@ -484,7 +490,7 @@ As you venture into the fascinating world of artificial intelligence, Python pro
 import tensorflow as tf
 ```
 
-### 2. !(https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png)**Keras**:
+### 2. **Keras**:
     Keras is an integral part of TensorFlow, offering a user-friendly interface for building neural networks. It's perfect for rapidly prototyping and experimenting with deep learning models.
    - **Documentation**: [Keras Documentation](https://keras.io/api/)
 
@@ -492,7 +498,7 @@ import tensorflow as tf
 import keras
 ```
 
-### 3. !(https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/da615a681b8d_w240.webp)**scikit-learn**:
+### 3. **scikit-learn**:
     Scikit-learn is a versatile library for classic machine learning tasks. It provides a wide range of tools for data preprocessing, model selection, and evaluation. It's an excellent choice for tasks like classification, regression, and clustering.
    - **Documentation**: [Scikit-learn Documentation](https://scikit-learn.org/stable/modules/classes.html)
 
@@ -500,7 +506,7 @@ import keras
 import sklearn
 ```
 
-### 4. !(https://pytorch.org/assets/images/pytorch-logo.png)**PyTorch**:
+### 4. **PyTorch**:
     PyTorch is another popular deep learning framework developed by Facebook's AI Research lab (FAIR). It's known for its dynamic computation graph, making it a favorite among researchers and for tasks like natural language processing and computer vision.
 
    - **Documentation**: [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
@@ -509,7 +515,7 @@ import sklearn
 import torch
 ```
 
-### 5. !(https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png)**Natural Language Toolkit (NLTK)**:
+### 5. **Natural Language Toolkit (NLTK)**:
     If you're working with text data or diving into natural language processing (NLP), NLTK is a fantastic library. It provides tools and resources for working with human language data.
    - **Documentation**: [NLTK Documentation](https://www.nltk.org/api/nltk.html)
 
@@ -517,7 +523,7 @@ import torch
 import nltk
 ```
 
-### 6. !(https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png)**OpenCV**:
+### 6. **OpenCV**:
     OpenCV is your go-to library for computer vision tasks. Whether you're building a facial recognition system or analyzing images and videos, OpenCV has you covered.
    - **Documentation**: [OpenCV Documentation](https://docs.opencv.org/master/)
 
@@ -525,7 +531,7 @@ import nltk
 import cv2
 ```
 
-### 7. !(https://media.slid.es/uploads/465821/images/5836629/pasted-from-clipboard.png)**Gensim**:
+### 7. **Gensim**:
     Gensim is a library designed for topic modeling and document similarity analysis. It's a must-have if you're working with large text corpora or exploring content recommendation systems.
    - **Documentation**: [Gensim Documentation](https://radimrehurek.com/gensim/)
 
@@ -533,7 +539,7 @@ import cv2
 import gensim
 ```
 
-### 8. !(https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png) **Pandas**:
+### 8. **Pandas**:
     Pandas is a powerful library for data manipulation and analysis. It's your ally in preparing and cleaning datasets for AI projects.
    - **Documentation**: [Pandas Documentation](https://pandas.pydata.org/docs/)
 
