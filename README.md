@@ -533,7 +533,7 @@ import cv2
 import gensim
 ```
 
-### 8. !(https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png)**Pandas**:
+### 8. !(https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png) **Pandas**:
     Pandas is a powerful library for data manipulation and analysis. It's your ally in preparing and cleaning datasets for AI projects.
    - **Documentation**: [Pandas Documentation](https://pandas.pydata.org/docs/)
 
