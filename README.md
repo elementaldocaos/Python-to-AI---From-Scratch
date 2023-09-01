@@ -62,7 +62,7 @@ Let's explore them!
 
 ## Pt-Br
 
-# Python para IA do Zero - Introdução ao Python
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="50 px" height="50 px" align="left">Python para IA do Zero - Introdução ao Python
 
 ## Introdução à Programação
 
