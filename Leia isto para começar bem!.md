@@ -52,7 +52,7 @@ Let's explore them!
 - **Standard Modules:** Python includes a range of standard modules offering additional functionalities like date/time processing, text manipulation, encryption, and more.
 - **Package Managers:** Python features a package management system to install and manage third-party libraries, adding extra functionality to your application.
 
-##Pt-Br
+## Pt-Br
 
 # Python para IA do Zero - Introdução ao Python
 
