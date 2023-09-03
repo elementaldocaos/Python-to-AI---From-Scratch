@@ -117,10 +117,6 @@ Vamos explorá-los!
 - **Gerenciadores de Pacotes:** Python possui um sistema de gerenciamento de pacotes para instalar e gerenciar bibliotecas de terceiros, adicionando funcionalidades extras à sua aplicação.
 
 
-
-## Unraveling the Mysteries of Syntax
-Certainly! Let's continue the tutorial with a creative approach in English:
-
 ## Unraveling the Mysteries of Syntax
 
 Now that you have a solid understanding of Python's foundations, let's dive into its unique syntax.
