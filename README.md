@@ -383,7 +383,6 @@ lion.greet()
 elephant.greet()
 ```
 
-Absolutely, let's continue with the topic "Diving Deeper: Modules, Classes, and More":
 
 ## Diving Deeper: Modules, Classes, and More
 
@@ -420,7 +419,6 @@ lion.greet()
 elephant.greet()
 ```
 
-Você está absolutamente correto, e peço desculpas pela omissão. A inteligência artificial é uma área empolgante e essencial em programação, e é importante incluí-la no tutorial. Vamos adicionar um tópico sobre "Exploring the World of Artificial Intelligence" ao tutorial:
 
 ## Exploring the World of Artificial Intelligence
 
