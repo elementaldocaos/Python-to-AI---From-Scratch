@@ -6,7 +6,10 @@
 3. [Crafting Your Own Reality: Functions and Control Flow](#crafting-your-own-reality-functions-and-control-flow)
 4. [Transforming Your Dreams into Code](#transforming-your-dreams-into-code)
 5. [Diving Deeper: Modules, Classes, and More](#diving-deeper-modules-classes-and-more)
-
+6. [Crafting Your Own Reality: Functions and Control Flow](#Crafting-Your-Own-Reality-:-Functions-and-Control-Flow)
+7. [Transforming Your Dreams into Code](#Transforming-Your-Dreams-into-Code)
+8. [Crafting Your Own Reality: Functions and Control Flow](#Crafting-Your-Own-Reality-:-Functions-and-Control-Flow)
+9. [The Power of Creation](#The-Power-of-Creation)
 
 ## Introduction to Programming
 
