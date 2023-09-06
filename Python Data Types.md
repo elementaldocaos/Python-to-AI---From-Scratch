@@ -57,4 +57,4 @@ Agora, vamos prosseguir explicando cada um desses tipos de dados:
 
 14. **class**: Represents user-defined data types created using classes, e.g., `CustomClass()`.
 
-Agora você tem uma visão geral dos principais tipos de dados em Python e suas categorias. Essa compreensão será fundamental à medida que avançamos e exploramos tópicos mais avançados.
+You now have an overview of the main data types in Python and their categories. This understanding will be fundamental as we move forward and explore more advanced topics.
