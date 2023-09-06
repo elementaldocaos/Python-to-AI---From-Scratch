@@ -1,5 +1,8 @@
 # Python Data Types
 
+
+## [Data Types Documentation](https://docs.python.org/3/library/datatypes.html)
+
 In Python, data is categorized into various types. These types can be divided into two main categories: built-in data types and user-defined data types. Let's explore these data types:
 
 | Category            | Data Type    | Example                    |
@@ -57,4 +60,57 @@ Agora, vamos prosseguir explicando cada um desses tipos de dados:
 
 14. **class**: Represents user-defined data types created using classes, e.g., `CustomClass()`.
 
-You now have an overview of the main data types in Python and their categories. This understanding will be fundamental as we move forward and explore more advanced topics.
+
+## To understand better:
+Some data types can generate doubts about their use, especially if it's the first time you've had contact with them, so let's delve a little deeper.
+I'll explain the `tuple`, `list`, `set`, and `binary types` (which include `bytes`, `bytearray`, and `memoryview`) in more detail. Let's get started:
+### Tuple (`tuple`)
+
+- Description: A tuple is an ordered and immutable sequence of elements. It is similar to a list, but unlike lists, tuples cannot be changed once they have been created.
+- Common Use Use tuples when you want to store a set of values that should not be modified, such as coordinates (x, y) or date information (year, month, day).
+- **Example**:
+  ```python
+  coordinates = (3, 4)
+  date = (2023, 8, 31)
+  ```
+
+### List (`list`)
+
+- Description: A list is an ordered and mutable sequence of elements. It can contain elements of different types and allows you to add, remove and modify items.
+- Common Usage: Use lists when you need to store a collection of items that can be changed, such as a list of tasks or numbers for calculations.
+- Example:
+  ```python
+  tasks = ["Buy groceries", "Read a book", "Write code"]
+  numbers = [1, 2, 3, 4, 5]
+  ```
+
+### Set (`set`)
+
+- Description: A set is an unordered, mutable collection of unique elements. This means that a set cannot contain duplicate elements and does not maintain the order of the elements.
+- Common Usage: Use sets when you need to store a set of unique values and don't care about the order, such as the list of unique words in a text.
+- Example:
+  ```python
+  unique_words = {"apple", "banana", "orange"}
+  ```
+
+### Binary Types (`bytes`, `bytearray`, and `memoryview`)
+
+- Description: These types are used to represent binary data, such as sequences of bytes. They are used in situations where you need to deal with data in its raw format.
+- Bytes: An immutable sequence of bytes. Usually used to represent text data encoded in ASCII or UTF-8.
+- **`bytearray`**: A mutable sequence of bytes. Useful when you need to modify data.
+- **`memoryview`**: An object that exposes an object's memory as a sequence of bytes. It is used to access the memory of objects such as arrays.
+
+- Common Use: These types are used in low-level situations, such as reading and writing binary files, manipulating network protocols or operating on raw data.
+
+- Example:
+  ```python
+  binary_data = b'\x48\x65\x6c\x6c\x6f' # Bytes
+  mutable_binary = bytearray(b'\x01\x02\x03')
+  memory = memoryview(b'\x41\x42\x43')
+  ```
+
+These explanations should clarify the operation and use of these data types in Python. You can add them as a section in your article to help readers understand these essential concepts.
+
+    
+
+You now have an overview of the main data types in Python and their categories. This understanding will be fundamental as we move forward and explore more advanced topics. 
