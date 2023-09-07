@@ -67,7 +67,7 @@ I'll explain the `tuple`, `list`, `set`, and `binary types` (which include `byte
 ### Tuple (`tuple`)
 
 - Description: A tuple is an ordered and immutable sequence of elements. It is similar to a list, but unlike lists, tuples cannot be changed once they have been created.
-- Common Use Use tuples when you want to store a set of values that should not be modified, such as coordinates (x, y) or date information (year, month, day).
+- Common Usage: Use tuples when you want to store a set of values that should not be modified, such as coordinates (x, y) or date information (year, month, day).
 - **Example**:
   ```python
   coordinates = (3, 4)
