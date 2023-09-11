@@ -1,6 +1,6 @@
 ### Summary:
 1. Dominando os Operadores em Python
-2. 
+2. Estruturas de Controle em Python
 
 
 
@@ -58,3 +58,94 @@ Os operadores de associação são usados para verificar se um valor está prese
 
 - `in` (verifica se um valor está presente)
 - `not in` (verifica se um valor não está presente)
+
+
+---
+
+## Navegando pelas Estruturas de Controle em Python
+
+Python oferece poderosas estruturas de controle que permitem que você tome decisões lógicas e execute ações repetitivas em seus programas. Neste guia, exploraremos duas categorias principais de estruturas de controle: condicionais e de repetição. Vamos dividir esse conhecimento em dois tópicos principais: Estruturas Condicionais e Estruturas de Repetição.
+
+### Estruturas Condicionais
+
+As estruturas condicionais permitem que você tome decisões com base em condições lógicas. As principais estruturas condicionais em Python incluem:
+
+#### `if`
+
+O `if` é usado para executar um bloco de código somente se uma condição for verdadeira.
+
+Exemplo:
+```python
+idade = 18
+if idade >= 18:
+    print("Você é maior de idade.")
+```
+
+#### `else`
+
+O `else` é usado em conjunto com o `if` para executar um bloco de código quando a condição do `if` não é verdadeira.
+
+Exemplo:
+```python
+idade = 16
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
+```
+
+#### `elif`
+
+O `elif` (abreviação de "else if") permite lidar com várias condições em sequência.
+
+Exemplo:
+```python
+nota = 85
+if nota >= 90:
+    print("A")
+elif nota >= 80:
+    print("B")
+elif nota >= 70:
+    print("C")
+else:
+    print("D")
+```
+
+### Estruturas de Repetição
+
+As estruturas de repetição permitem que você execute um bloco de código várias vezes. As principais estruturas de repetição em Python incluem:
+
+#### `for`
+
+O loop `for` é usado para iterar sobre uma sequência (como uma lista, tupla, conjunto ou string).
+
+Exemplo:
+```python
+frutas = ["maçã", "banana", "laranja"]
+for fruta in frutas:
+    print(fruta)
+```
+
+#### `while`
+
+O loop `while` é usado para executar um bloco de código enquanto uma condição for verdadeira.
+
+Exemplo:
+```python
+contador = 0
+while contador < 5:
+    print(contador)
+    contador += 1
+```
+
+#### `break` e `continue`
+
+Você pode usar `break` para sair de um loop e `continue` para pular a iteração atual.
+
+Exemplo:
+```python
+for i in range(10):
+    if i == 3:
+        break
+    print(i)
+```
