@@ -1,7 +1,7 @@
 ### Summary:
 1. Dominando os Operadores em Python
 2. Estruturas de Controle em Python
-3. Manipulação de Strings
+3. Manipulação de Strings em Python
 
 
 
