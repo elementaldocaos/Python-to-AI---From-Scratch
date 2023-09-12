@@ -128,9 +128,7 @@ Para acessar elementos em uma lista bidimensional, use índices duplos:
 
 ```python
 elemento = matriz[1][2]  # Retorna 6 (linha 2, coluna 3)
-``
-
-`
+```
 
 ### Conclusão
 
