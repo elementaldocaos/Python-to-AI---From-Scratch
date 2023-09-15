@@ -33,6 +33,11 @@ meu_conjunto.discard(5)   # Remove o elemento 5 (se existir)
 
 Os conjuntos suportam operações de conjunto como união, interseção e diferença. Isso pode ser extremamente útil em ciência de dados para combinar e analisar conjuntos de dados.
 
+- `union()`: Retorna a união de dois conjuntos.
+- `intersection()`: Retorna a interseção de dois conjuntos.
+- `difference()`: Retorna a diferença entre dois conjuntos.
+- `symmetric_difference()`: Retorna a diferença simétrica entre dois conjuntos.
+
 ```python
 conjunto_A = {1, 2, 3}
 conjunto_B = {3, 4, 5}
@@ -40,6 +45,25 @@ conjunto_B = {3, 4, 5}
 uniao = conjunto_A.union(conjunto_B)     # União de A e B
 intersecao = conjunto_A.intersection(conjunto_B)  # Interseção de A e B
 diferenca = conjunto_A.difference(conjunto_B)  # Diferença entre A e B
+diferenca_simetrica = conjunto_A.symmetric_difference(conjunto_B)  # Diferença simétrica entre A e B
+```
+
+## **Outros Métodos de Conjunto**
+
+Além dos métodos mencionados, os conjuntos também oferecem outras operações e métodos úteis:
+
+- `clear()`: Remove todos os elementos do conjunto.
+- `copy()`: Cria uma cópia superficial do conjunto.
+- `pop()`: Remove e retorna um elemento aleatório do conjunto.
+- `issubset()`: Verifica se um conjunto é um subconjunto de outro.
+- `issuperset()`: Verifica se um conjunto é um superconjunto de outro.
+
+```python
+meu_conjunto = {1, 2, 3}
+copia = meu_conjunto.copy()
+elemento_removido = meu_conjunto.pop()
+e_subconjunto = meu_conjunto.issubset(copia)
+e_superconjunto = meu_conjunto.issuperset(copia)
 ```
 
 ## **Quando Usar Conjuntos em Ciência de Dados**
