@@ -179,6 +179,26 @@ Ao trabalhar com dicionários aninhados, é importante manter algumas dicas em m
 
 - Evite profundidade excessiva: Evite criar dicionários aninhados muito profundos, pois isso pode tornar o código menos legível.
 
+  **No contexto de dicionários aninhados, a "profundidade" se refere ao nível de aninhamento ou à quantidade de camadas de dicionários dentro de dicionários. Em outras palavras, é quão profundamente os dicionários estão aninhados uns dentro dos outros.**
+
+Por exemplo, considere o seguinte dicionário aninhado:
+
+```python
+{
+    "nivel1": {
+        "nivel2": {
+            "nivel3": {
+                "dados": "algum_valor"
+            }
+        }
+    }
+}
+```
+
+Neste caso, temos uma profundidade de três níveis. Cada nível representa uma camada adicional de aninhamento. Quando eu mencionei "evitar profundidade excessiva", quis dizer que é geralmente uma boa prática não criar dicionários aninhados com muitos níveis de profundidade, pois isso pode tornar o código mais difícil de ler, entender e manter.
+
+Profundidades excessivas podem complicar a navegação pelos dados, exigindo múltiplas verificações de existência de chave e aumentando a complexidade do código. Portanto, é aconselhável manter a estrutura de dados o mais simples possível, evitando aninhamentos excessivos, sempre que possível, para facilitar a compreensão do código.
+
 Os dicionários aninhados são uma ferramenta poderosa para lidar com dados complexos em Python e são amplamente utilizados em programação e ciência de dados para representar informações de maneira organizada e estruturada. A prática é a melhor maneira de se tornar proficiente em trabalhar com eles, então experimente criar e manipular dicionários aninhados em seus próprios projetos.
 
 
