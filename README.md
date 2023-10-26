@@ -49,7 +49,7 @@ Let's explore them!
 - **Operators:** Enable mathematical operations, value comparisons, and more.
 - **Control Flow Structures:** Manage program execution flow, determining which code block should run in specific situations.
 - **Functions:** Reusable code blocks that perform specific tasks or operations.
-- **Comments:** Non-executable text explaining the code, improving readability for other programmers.
+- **Comments:** Non-executable text explaining the code, improving readability for other programmers. To coment in Python use "#".
 
 ### Special Elements
 - **Indentation:** Vital in Python, as it defines code structure. It indicates which code should execute within a block, like a function or a loop.
